@@ -1,0 +1,17 @@
+[project]
+name = "aganitha-backend-project"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "sameerkumarg508",email = "sameerkumarg508@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "biopython (>=1.85,<2.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
