@@ -93,7 +93,4 @@ These are managed via Poetry (`pyproject.toml`).
 
 ---
 
-## ✅ Submission Ready
-You can now zip the project folder or push it to GitHub as your final submission.
-
 ---
